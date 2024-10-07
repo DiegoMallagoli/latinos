@@ -1,4 +1,6 @@
 @charset "UTF-8";
+
+@charset "UTF-8";
 header{
     background-color: orange;
 }
@@ -40,10 +42,8 @@ h1{
     
     justify-content: center;
     align-items: center;
-    
-    
-}
 
+}
 h2{
     font-family: 'Arial', sans-serif;
     letter-spacing: 0.3em;
@@ -55,8 +55,6 @@ h2{
     
     
 }
-
-
 img#logo1{
     margin-right: 70px;
    
@@ -78,17 +76,8 @@ img#logo2{
     text-align: center;
 }
 
-
-
-h3{
-
-    display: flex;
-    justify-content: center;
-    
+p {
+    font-family: 'Arial', sans-serif;
+    font-size: 20px; /* ajuste o tamanho conforme necessário */
+    line-height: 1.5; /* espaçamento entre linhas */
 }
-
-    p {
-        font-family: 'Arial', sans-serif;
-        font-size: 20px; /* ajuste o tamanho conforme necessário */
-        line-height: 1.5; /* espaçamento entre linhas */
-    }
