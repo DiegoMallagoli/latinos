@@ -1,5 +1,21 @@
 @charset "UTF-8";
+/* @media print { 
+    body {
+        color: black;
+        background: white;
+        margin: 0;
+        font-size: 20px;
+    }
+}
 
+@media (max-width: ) {
+
+}
+    body {
+        font-size: 20px;
+        margin: 10px;
+        padding: 10px;
+    }*/
 p {
     font-family: 'Arial', sans-serif;
     font-size: 20px; /* ajuste o tamanho conforme necessário */
